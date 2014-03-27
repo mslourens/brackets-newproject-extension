@@ -1,0 +1,10 @@
+{
+   "name": "",
+   "description": "",
+   "version": "0.0.1",
+   "dependencies": {
+      "express": "latest",
+       "ejs-locals":"latest",
+       "socket.io": "latest"
+   }
+}

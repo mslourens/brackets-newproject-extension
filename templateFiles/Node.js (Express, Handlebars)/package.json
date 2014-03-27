@@ -1,0 +1,10 @@
+{
+   "name": "Node.js (Express, handlebars)",
+   "description": "",
+   "version": "0.0.1",
+   "dependencies": {
+      "express": "latest",
+       "hbs":"latest",
+       "socket.io": "latest",
+   }
+}
